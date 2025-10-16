@@ -1,10 +1,14 @@
 # proyecto1_compu_movil
 hola, trabajo 1 de compu movil
 
-**Borra las dependecias y cosas cuando se buggea y no corre a veces**
-flutter clean 
-**Baja las dependencias, se hace despues del clean o cuando se baja el repo por primera vez**
+**Borra las dependencias y cosas cuando se buggea y no corre a veces**  
+
+flutter clean  
+
+**Baja las dependencias, se hace después del clean o cuando se baja el repo por primera vez**  
+
 flutter pub get
+
 
 🚀 Descripción Rápida
 
