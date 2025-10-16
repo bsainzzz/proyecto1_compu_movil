@@ -1,6 +1,11 @@
 # proyecto1_compu_movil
 hola, trabajo 1 de compu movil
 
+# Borra las dependecias y cosas cuando se buggea y no corre a veces
+flutter clean 
+# Baja las dependencias, se hace despues del clean o cuando se baja el repo por primera vez
+flutter pub get
+
 🚀 Descripción Rápida
 
 Aplicación móvil desarrollada en Flutter para dispositivos Android. Permite a los usuarios autenticarse mediante Firebase Authentication y consumir la API de votación disponible en https://api.sebastian.cl/vote.
