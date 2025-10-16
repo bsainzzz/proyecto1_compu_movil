@@ -1,6 +1,7 @@
 # proyecto1_compu_movil
 hola, trabajo 1 de compu movil
 
+**Para hacerlo tienen que estar dentro de la primera carpeta app** 
 **Borra las dependencias y cosas cuando se buggea y no corre a veces**  
 
 flutter clean  
