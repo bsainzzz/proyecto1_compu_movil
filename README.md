@@ -9,6 +9,7 @@ flutter clean
 
 flutter pub get
 
+**El json de google cambia cada ve que se agrega alguien**
 
 🚀 Descripción Rápida
 
