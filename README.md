@@ -53,11 +53,7 @@ Habilita Google Sign-In como método de autenticación.
 
 Agrega el archivo google-services.json a android/app/.
 
-Importante: Añade las huellas SHA-1 requeridas a tu proyecto de Firebase:
 
-    6C:93:6F:47:18:74:7C:16:F5:1B:9F:62:E5:7A:D0:96:01:8C:EE:19 
-
-D4:FC:F5:44:4E:56:AD:1E:05:50:19:87:5D:78:48:3D:28:BF:5A:B7 
 
 4. Instalar Dependencias
 
