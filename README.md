@@ -15,7 +15,7 @@ flutter pub get
 
 🚀 Descripción Rápida
 
-Aplicación móvil desarrollada en Flutter para dispositivos Android. Permite a los usuarios autenticarse mediante Firebase Authentication y consumir la API de votación disponible en https://api.sebastian.cl/vote.
+Aplicación móvil desarrollada en Flutter para dispositivos Android. Permite a los usuarios autenticarse mediante Firebase Authentication y consumir la API de votación 
 
 El proyecto debe implementar una arquitectura por capas (Presentación, Dominio, Datos) y garantizar un flujo de inicio de sesión seguro, con soporte obligatorio para la autenticación con Google.
 
